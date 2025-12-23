@@ -2,7 +2,10 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![NextJS](https://img.shields.io/badge/Built_with-NextJS-blue)
-![OpenAI API](https://img.shields.io/badge/Powered_by-OpenAI_API-orange)
+![OpenAI API]तू जंगल में चलता है। चारों ओर सन्नाटा है, पत्ते सूखे हैं। तभी तू देखता है—रेत में दबा एक बीज। तू आगे बढ़ जाता है, लेकिन अचानक रुकता है।
+उसी पल एक हाथी आता है, पानी की कुछ बूँदें गिराता है। बीज से अंकुर निकलता है, पत्ते आते हैं, फूल खिलते हैं। जंगल मुस्कुराने लगता है।
+तू समझ जाता है—अगर हाथी न आता, तो सब खत्म था।
+सीख: कभी-कभी तू ही वो हाथी होता है, और किसी की ज़िंदगी सिर्फ़ तेरी एक बूँद पर टिकी होती है।https://img.shields.io/badge/Powered_by-OpenAI_API-orange)
 
 [OpenAI.fm](https://openai.fm) is an interactive demo to showcase the new OpenAI text-to-speech models.
 It is built with NextJS and the [Speech API](https://platform.openai.com/docs/api-reference/audio/createSpeech).
